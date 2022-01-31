@@ -1,6 +1,6 @@
 # TaxServiceAPI
 A service built to retrieve tax data from external APIs and calculate tax owed. I went a bit beyond the basic spec to make the service more complete and extensible.
-Note that to test this locally you should fill in "ApiKey" in appsettings.json. I wanted to keep it out of a public repo and would normally use a secret/env variable.
+Note that for this to work locally you should fill in "ApiKey" in appsettings.json. I wanted to keep it out of a public repo and would normally use a secret/env variable.
 
 ## Design
 ### TaxService
